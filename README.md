@@ -7,16 +7,16 @@
 
 <img src="img/html.png"> <img src="img/css.png"> <!-- <img src="img/js.png"> <img src="img/bootstrap.png"> -->
 
+## Estudando
+- Javascript
+- Java
+- Bootstrap
 
 ## Tecnologias futuras
 - SQL
 - REACT
 - TAILWIND CSS
 
-## Estudando
-- Javascript
-- Java
-- Bootstrap
 
 ## Contato
 
