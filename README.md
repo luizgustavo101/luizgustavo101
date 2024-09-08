@@ -1,5 +1,5 @@
 # Sobre
-Me chamo Luiz Gustavo e sou desenvolvedor web, a cada dia estou aperfeiçoando cada vez mais minhas abilidades 
+<!-- Me chamo Luiz Gustavo e sou desenvolvedor web, a cada dia estou aperfeiçoando cada vez mais minhas abilidades --> 
 
 
 ![Estatisricas](https://github-readme-stats.vercel.app/api?username=luizgustavo101&theme=dark&locale=pt-br&hide_title=true)
@@ -14,6 +14,7 @@ Me chamo Luiz Gustavo e sou desenvolvedor web, a cada dia estou aperfeiçoando c
 - TAILWIND CSS
 
 ## Estudando
+- Javascript
 - Java
 - Bootstrap
 
